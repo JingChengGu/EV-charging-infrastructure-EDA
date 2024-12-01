@@ -169,6 +169,7 @@ dependencies:
       - pyogrio==0.10.0
       - pyparsing==3.0.9
       - pyproj==3.6.1
+      - python-dotenv==1.0.1
       - pytz==2022.1
       - pyzmq==26.2.0
       - referencing==0.35.1
