@@ -1,4 +1,4 @@
-# DSC180A-SDGE-Q1
+# EV Charging Infrastructure EDA 
 
 All data used in this repository were downloaded from the web or extracted via API.
 
